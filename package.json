@@ -1,0 +1,12 @@
+{
+  "name": "al-humaidi-server",
+  "version": "1.0.0",
+  "description": "Al-Humaidi Media for Profit - Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
